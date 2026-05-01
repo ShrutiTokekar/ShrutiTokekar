@@ -1,42 +1,66 @@
-# 👋 Hi, I'm Shruti Tokekar!
+# Shruti Tokekar
 
-I'm a **Computer Science junior** passionate about building both **system-level tools** and **user-facing applications**. From manipulating memory in C to designing full-stack systems with Docker, I enjoy solving complex problems with clean code and creative logic.
+**Computer Science · Systems & Full-Stack · Junior at East Stroudsburg University**
 
----
+I build things at both ends of the stack — from memory allocators and OS schedulers in C to containerized web backends, AI-powered apps, and polished frontends. I care about clean architecture, efficient algorithms, and code that does exactly what it should.
 
-## 🚀 Projects I'm Proud Of
-
-### 🧠 Systems Programming (C / Linux)
-- **🔧 Preemptive SJF Scheduler** – Simulates an OS-level preemptive shortest-job-first scheduling algorithm with I/O tracking, deadlines, and statistical reporting
-- **📦 LRU & Clock Page Replacement** – Frame-by-frame matrix visualization of LRU (via stack + DLL) and Clock algorithm with use bits
-- **🖼️ Steganography in BMP** – Hides and extracts secret messages inside BMP images using least significant bit (LSB) encoding
-
-### 💻 Web & Full-Stack Development
-- **🌐 Portfolio Website** – Clean, responsive personal site built with HTML, CSS, and JavaScript
-- **📝 To-Do List App** – A lightweight task tracker using vanilla JS and local storage
-- **🎧 Music Analyzer Backend** – PHP + MySQL backend for a browser-based music analytics web app  
-  ↳ Built RESTful APIs, containerized with Docker, designed schema, and enabled frontend integration at `localhost:8080`
-
-### 🎵 Data & Databases
-- **🎶 Music Metadata Database** – SQL + Excel project to store and query large music collections, with filters and analytics
-
-### ☕ Java-Based Applications
-- **🛍️ Online Shopping System** – Java application for managing products, users, and purchase flow
-- **🎓 Student Management System** – Java tool to manage student records, grading, and enrollment via OOP design
+Website: [shrutitokekar.com](https://shrutitokekar.com) · LinkedIn: [shruti-tokekar](https://linkedin.com/in/shruti-tokekar) · Email: shrutitokekar@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+## Featured Projects
 
-- **Languages**: C, C++, Java, PHP, JavaScript, SQL, HTML/CSS, Python
-- **Tools & Systems**: Linux (Fedora), Docker, MySQL, Git, GCC, GDB, Excel, VS Code
-- **Focus Areas**: Operating Systems, Web APIs, Containerization, File Systems, Full-Stack Dev, Database Design
+### Full-Stack & Web Applications
+
+| Project | Stack | Description |
+|---|---|---|
+| **Flow State** | React · TypeScript · Spring Boot · PostgreSQL | Full-stack task management app with Kanban board, JWT + Google OAuth authentication, priority levels, due dates, and task statistics. Deployed on Railway + Vercel. |
+| **Skinthesis** | Next.js · TypeScript · Tailwind CSS | Marketing website for a U.S. biotech beauty startup. Converted from static HTML/CSS/JS to Next.js App Router with scroll animations, interactive product section, shade picker, and fully responsive layout. |
+| **Portfolio** | React · Vite · Tailwind CSS · EmailJS | Personal portfolio at shrutitokekar.com — crash-animation hero with particle effects, live terminal component, dual portals for design and engineering work, and animated contact form. |
+| **Music Analyzer Backend** | PHP · MySQL · Docker | RESTful API backend for a browser-based music analytics app. Containerized with Docker, served at `localhost:8080`. |
+
+### AI & Data
+
+| Project | Stack | Description |
+|---|---|---|
+| **Zenty Finance AI** | Python · Docker | AI-powered personal finance assistant with chatbot interface, budget tracking, savings goals, stock portfolio monitoring, and financial insights. |
+| **Music Metadata Database** | SQL · Excel | System for storing, querying, and analyzing large music collections with filters and aggregate analytics. |
+
+### Systems Programming — C & Linux
+
+| Project | Description |
+|---|---|
+| **Preemptive SJF Scheduler** | OS-level scheduler simulating preemptive shortest-job-first with I/O tracking, deadlines, and statistical reporting |
+| **LRU & Clock Page Replacement** | Frame-by-frame visualization of LRU (stack + doubly linked list) and Clock algorithm with use-bit tracking |
+| **BMP Steganography** | Hides and recovers secret messages inside BMP images using least-significant-bit (LSB) encoding |
+| **Space Invaders (C++ / SDL2)** | Classic arcade game with progressive difficulty, enemy AI, AABB collision detection, and fixed 60 FPS game loop |
+
+### Java Applications
+
+| Project | Description |
+|---|---|
+| **Online Shopping System** | OOP-based Java app managing products, users, and purchase flow |
+| **Student Management System** | Record management tool with grading and enrollment, built around clean OOP design |
 
 ---
 
-## 📫 Let's Connect
+## Tech Stack
 
-- 📧 Email: shruti.tokekar23@gmail.comm 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](http://www.linkedin.com/in/shruti-tokekar)  
+```
+Languages    C · C++ · Java · PHP · JavaScript · TypeScript · SQL · HTML/CSS · Python
+Frameworks   React · Next.js · Spring Boot · Tailwind CSS · Vite
+Tools        Linux (Fedora) · Docker · PostgreSQL · MySQL · Git · GCC · GDB · VS Code
+Focus        Operating Systems · Full-Stack Dev · Web APIs · Containerization · Database Design
+```
 
+---
 
+## Currently
+
+- Junior studying Computer Science with a minor in Graphic & Web Design
+- Deepening expertise in systems programming and backend architecture
+- Exploring the intersection of low-level performance and modern web development
+
+---
+
+*Open to internships, collaborations, and interesting problems.*
