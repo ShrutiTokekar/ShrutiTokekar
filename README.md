@@ -14,6 +14,7 @@ Website: [shrutitokekar.com](https://shrutitokekar.com) · LinkedIn: [shruti-tok
 
 | Project | Stack | Description |
 |---|---|---|
+| **Refundly** | Go · C++ · PostgreSQL · Redis · Docker | Real-time return fraud detection platform for e-commerce systems. Uses behavioral analytics and concurrent fraud scoring signals to flag suspicious return requests before approval. Built with a Go microservice API, Redis caching layer, PostgreSQL database, and a C++ Drogon administrative dashboard. |
 | **Flow State** | React · TypeScript · Spring Boot · PostgreSQL | Full-stack task management app with Kanban board, JWT + Google OAuth authentication, priority levels, due dates, and task statistics. Deployed on Railway + Vercel. |
 | **Skinthesis** | Next.js · TypeScript · Tailwind CSS | Marketing website for a U.S. biotech beauty startup. Converted from static HTML/CSS/JS to Next.js App Router with scroll animations, interactive product section, shade picker, and fully responsive layout. |
 | **Portfolio** | React · Vite · Tailwind CSS · EmailJS | Personal portfolio at shrutitokekar.com — crash-animation hero with particle effects, live terminal component, dual portals for design and engineering work, and animated contact form. |
@@ -46,18 +47,18 @@ Website: [shrutitokekar.com](https://shrutitokekar.com) · LinkedIn: [shruti-tok
 
 ## Tech Stack
 
-```
-Languages    C · C++ · Java · PHP · JavaScript · TypeScript · SQL · HTML/CSS · Python
-Frameworks   React · Next.js · Spring Boot · Tailwind CSS · Vite
-Tools        Linux (Fedora) · Docker · PostgreSQL · MySQL · Git · GCC · GDB · VS Code
-Focus        Operating Systems · Full-Stack Dev · Web APIs · Containerization · Database Design
+```text
+Languages    C · C++ · Java · Go · PHP · JavaScript · TypeScript · SQL · HTML/CSS · Python
+Frameworks   React · Next.js · Spring Boot · Gin · Drogon · Tailwind CSS · Vite
+Tools        Linux (Fedora) · Docker · PostgreSQL · Redis · MySQL · Git · GCC · GDB · VS Code
+Focus        Operating Systems · Full-Stack Dev · Backend Architecture · Web APIs · Containerization · Database Design
 ```
 
 ---
 
 ## Currently
 
-- Junior studying Computer Science with a minor in Graphic & Web Design
+- Senior studying Computer Science with a minor in Graphic & Web Design
 - Deepening expertise in systems programming and backend architecture
 - Exploring the intersection of low-level performance and modern web development
 
